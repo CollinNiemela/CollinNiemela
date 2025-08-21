@@ -1,6 +1,6 @@
 ### Hey there, I'm Collin Niemela 👋
 
-I'm an **AI Software Engineer** with a degree in **Computer Science & Software Engineering** from the University of Washington. I specialize in enhancing and evaluating **Large Language Models**.
+I'm a **Software Engineer** with a degree in **Computer Science & Software Engineering** from the University of Washington. I specialize in enhancing and evaluating **Large Language Models**.
 
 Currently, I work as an **AI Prompt Engineer** at Data Annotation Tech. My focus is on improving AI-generated code by evaluating its accuracy, efficiency, and quality across multiple programming languages.
 
